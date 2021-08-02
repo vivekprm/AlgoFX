@@ -1,0 +1,37 @@
+{
+  "Sorting": [
+    {
+      "name": "Selection Sort"
+    },
+    {
+      "name": "Insertion Sort"
+    },
+    {
+      "name": "Merge Sort"
+    },
+    {
+      "name": "Quick Sort"
+    }
+  ],
+  "Arrays": [
+    {
+      "name": "Binary Search"
+    }
+  ],
+  "Linked List": [
+    {
+      "name": "Print Reverse"
+    }
+  ],
+  "Binary Search Trees": [
+    {
+      "name": "Insertion"
+    },
+    {
+      "name": "Preorder Traversal"
+    },
+    {
+      "name": "Postorder Traversal"
+    }
+  ]
+}
